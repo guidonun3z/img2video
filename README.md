@@ -10,7 +10,7 @@ autor: guidonun3z
    ` $git clone https://github.com/guidonun3z/img2video`<br>
 2. Agregar la libreria OpenCV<br>
    ` $conda install opencv` ó ` $pip install opencv`<br>
-3. Llenar los datos
+3. Llenar los datos<br>
    `hhini=000 `hora de inicio en formato hhmm<br>
    `hhfin=0000 `hora de fin en formato hhmm<br>
    `dia="0000" `dia y mes en formato ddmm<br>
