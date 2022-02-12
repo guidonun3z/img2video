@@ -16,7 +16,7 @@ nrad=random.randint(0,999)
 hhini=000
 hhfin=2400
 dia="0211"
-camara="TSOQ22"
+camara="codigo"
 ext=".avi"
 
 
