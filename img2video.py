@@ -8,9 +8,10 @@ import os
 from os.path import isfile, join
 from numpy import *
 import random
-
 nrad=random.randint(0,999)
-# video especifications 
+
+
+# Video especifications 
 
 hhini=000
 hhfin=2400
@@ -46,7 +47,7 @@ def convert_pictures_to_video(pathIn, pathOut, fps, time):
     print("se creó el video exitosamente\n","se compilaron " + str(len(files2))+ " archivos" )
     
 #out file configuration: 
-directory='J:/IngemmetWork/monitoreo/Camaras/Ticsani/TSOQ/2022/02/11'
+directory='c:/carpeta/carpeta'
 pathIn=directory+'/'
 pathOut=pathIn+camara+'-'+str(hhini)+'-'+str(hhfin)+'-'+dia+'-'+str(nrad)+ext
 fps=25
