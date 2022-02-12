@@ -14,5 +14,6 @@ autor: guidonun3z
    `hhini=000 `hora de inicio en formato hhmm<br>
    `hhfin=0000 `hora de fin en formato hhmm<br>
    `dia="0000" `dia y mes en formato ddmm<br>
-   `camara="nombre"`npombre de la camara<br>
+   `camara="nombre"`nombre de la camara<br>
    `ext=".avi"`extension del video <br>
+   `directory='c:/carpeta/carpeta'`aquí se coloca la carpeta de origen<br>
